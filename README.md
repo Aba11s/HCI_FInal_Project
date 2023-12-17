@@ -1,1 +1,2 @@
 # HCI_FInal_Project
+It is an interactive web application that serves as both a personal diary as well as a public diary. Its main function is to write down diary entries and store them in an orderly manner. It can also be used to see other people’s diary entries to create a space for people to connect over shared experiences, empathy, and make people feel less lonely. It also provides entertainment in the form of insight into the lives and thoughts of others.
